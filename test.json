@@ -4,7 +4,8 @@
             "id": 1,
             "name": "Иван Иванов",
             "email": "ivan.ivanov@example.com",
-            "is_active": true
+            "is_active": true,
+            "img": "png-clipart-office-desk-chairs-furniture-dining-room-rocking-chairs-chair-angle-furniture.png"
         },
         {
             "id": 2,

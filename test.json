@@ -5,7 +5,7 @@
             "name": "Иван Иванов",
             "email": "ivan.ivanov@example.com",
             "is_active": true,
-            "img": "png-clipart-office-desk-chairs-furniture-dining-room-rocking-chairs-chair-angle-furniture.png"
+            "img": "https://raw.githubusercontent.com/NZeroName/test/main/chair.png"
         },
         {
             "id": 2,
